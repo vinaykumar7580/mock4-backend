@@ -1,0 +1,85 @@
+{
+  "user": [
+    {
+      "name": "Rajesh",
+      "category": "Geography",
+      "difficulty": "Easy",
+      "questions": 5,
+      "id": 1
+    },
+    {
+      "name": "Vinay",
+      "category": "Sports",
+      "difficulty": "Medium",
+      "questions": 5,
+      "id": 2
+    },
+    {
+      "name": "Anand",
+      "category": "General Knowledge",
+      "difficulty": "Hard",
+      "questions": 6,
+      "id": 3
+    }
+  ],
+  "question": [
+    {
+      "que": "What is the name of Indian Cricket Team Captain?",
+      "opt1": "MS Dhoni",
+      "opt2": "Virat Kohli",
+      "opt3": "Rohit Sharma",
+      "opt4": "Rahul Dravid",
+      "right":"Virat Kohli",
+      "category": "Sport",
+      "difficulty":"Easy",
+      "id": 1
+    },
+    {
+      "que": "What is the name of Highest Scorer Player?",
+      "opt1": "MS Dhoni",
+      "opt2": "Virat Kohli",
+      "opt3": "Rohit Sharma",
+      "opt4": "Rahul Dravid",
+      "right":"Virat Kohli",
+      "category": "Sport",
+      "difficulty":"Easy",
+      "id": 2
+    },
+    {
+        "que": "The Helicopter shot belong to?",
+        "opt1": "MS Dhoni",
+        "opt2": "Virat Kohli",
+        "opt3": "Rohit Sharma",
+        "opt4": "Rahul Dravid",
+        "right":"MS Dhoni",
+        "category": "Sport",
+        "difficulty":"Easy",
+        "id": 3
+      }
+      ,
+      {
+        "que": "Who is the one day match captain in last year?",
+        "opt1": "MS Dhoni",
+        "opt2": "Virat Kohli",
+        "opt3": "Rohit Sharma",
+        "opt4": "Rahul Dravid",
+        "right":"Rohit Sharma",
+        "category": "Sport",
+        "difficulty":"Easy",
+        "id": 4
+      },
+      {
+        "que": "Select older player in between?",
+        "opt1": "MS Dhoni",
+        "opt2": "Virat Kohli",
+        "opt3": "Rohit Sharma",
+        "opt4": "Rahul Dravid",
+        "right":"Rahul Dravid",
+        "category": "Sport",
+        "difficulty":"Easy",
+        "id": 5
+      }
+      
+  ],
+  "result": []
+}
